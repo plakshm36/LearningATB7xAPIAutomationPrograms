@@ -5,7 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1394e575-337d-4ca4-a7ad-8cc38bc4cf7c" name="Changes" comment="files added">
-      <change afterPath="$PROJECT_DIR$/ReadMe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicAnnotations_com.thetestingacademy_ex_15092024_CRUD.POST" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasicStarted/BuilderPatternDesignPatternJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasicStarted/NoDesignPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasicStarted/Test002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/GET/GetBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/GET/GetNonBDDStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/POST/PostBddStyleCreateAuth_TC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/POST/PostTC3_CreateBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/POST/PostnonBddStyleCreateAuth_TC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/POST/PutTC5_UpdateBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/TestngAnnotations/Test002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/TestngAnnotations/Test003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/Assertions/Test011_AssertionsTestNGandHamcrest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/Assertions/Test012_AssertionsTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/TestCaseIntegration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNg004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Test001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasicStarted/Test001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +48,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;plakshm36&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/plakshm36/LearningATB7xAPIAutomationPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;cc55663c-506c-4646-af8c-d0457e58b0e7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2m5l8kTLx3uYWfOR4b9RSq9CCE3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,39 +71,182 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GetBDDStyle.executor": "Run",
+    "Application.NoDesignPattern.executor": "Run",
     "Application.Test001.executor": "Run",
+    "Application.Test002.executor": "Coverage",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUD/testng.xml.executor": "Run",
+    "TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/testng.xml.executor": "Run",
+    "TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/testng_groups_qa.xml.executor": "Run",
+    "TestNG.PostBddStyleCreateAuth_TC1.test_post.executor": "Run",
+    "TestNG.PostTC3_CreateBooking.executor": "Run",
+    "TestNG.PostTC3_CreateBooking.test_createBooking (1).executor": "Run",
+    "TestNG.PostTC3_CreateBooking.test_createBooking (2).executor": "Run",
+    "TestNG.PostTC3_CreateBooking.test_createBooking.executor": "Run",
+    "TestNG.PostnonBddStyleCreateAuth_TC1.test_post.executor": "Run",
+    "TestNG.PutTC5_UpdateBooking.executor": "Run",
+    "TestNG.PutTC5_UpdateBooking.test_updatebooking (1).executor": "Run",
+    "TestNG.PutTC5_UpdateBooking.test_updatebooking (2).executor": "Coverage",
+    "TestNG.PutTC5_UpdateBooking.test_updatebooking (3).executor": "Run",
+    "TestNG.PutTC5_UpdateBooking.test_updatebooking.executor": "Run",
+    "TestNG.Test011_AssertionsTestNGandHamcrest.createBooking.executor": "Run",
+    "TestNG.TestCaseIntegration (1).executor": "Run",
+    "TestNG.TestCaseIntegration.executor": "Run",
+    "TestNG.TestCaseIntegration.test_delete_booking.executor": "Run",
+    "TestNG.TestNG001.testcase02.executor": "Run",
+    "TestNG.TestNG003.testPUTReq2.executor": "Run",
+    "TestNG.TestNG005.executor": "Run",
+    "TestNG.TestNG005.t2.executor": "Run",
+    "TestNG.TestNG009.executor": "Run",
+    "TestNG.TestNg004.test_PUT.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/padma/ATB7xLearning",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\padma\IdeaProjects\LearningATB7xAPIAutomationPrograms\src\test\java\com\thetestingacademy\ex_21092024\CRUD" />
+      <recent name="C:\Users\padma\IdeaProjects\LearningATB7xAPIAutomationPrograms\src\test\java\com\thetestingacademy\ex_21092024" />
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xAPIAutomationPrograms" />
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xAPIAutomationPrograms\target" />
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xAPIAutomationPrograms\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex_15092024_CRUD.Post" />
+      <recent name="com.thetestingacademy.ex_15092024_CRUD.get" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Test001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.Test001" />
+  <component name="RunManager" selected="TestNG.Test011_AssertionsTestNGandHamcrest.createBooking">
+    <configuration name="C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUD/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutTC5_UpdateBooking.test_updatebooking" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningATB7xAPIAutomationPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_15092024_CRUD.POST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_15092024_CRUD.Post" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_15092024_CRUD.POST.PutTC5_UpdateBooking" />
+      <option name="METHOD_NAME" value="test_updatebooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutTC5_UpdateBooking.test_updatebooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_15092024_CRUD.POST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_15092024_CRUD.Post" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_15092024_CRUD.POST.PutTC5_UpdateBooking" />
+      <option name="METHOD_NAME" value="test_updatebooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test011_AssertionsTestNGandHamcrest.createBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.Assertions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.Assertions" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.Assertions.Test011_AssertionsTestNGandHamcrest" />
+      <option name="METHOD_NAME" value="createBooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseIntegration (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.CRUD.TestCaseIntegration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseIntegration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.CRUD.TestCaseIntegration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseIntegration.test_delete_booking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.CRUD.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.CRUD" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.CRUD.TestCaseIntegration" />
+      <option name="METHOD_NAME" value="test_delete_booking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test001" />
+        <item itemvalue="TestNG.Test011_AssertionsTestNGandHamcrest.createBooking" />
+        <item itemvalue="TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUD/testng.xml" />
+        <item itemvalue="TestNG.TestCaseIntegration (1)" />
+        <item itemvalue="TestNG.TestCaseIntegration" />
+        <item itemvalue="TestNG.TestCaseIntegration.test_delete_booking" />
       </list>
     </recent_temporary>
   </component>
@@ -94,11 +275,47 @@
       <option name="project" value="LOCAL" />
       <updated>1726658185190</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="files added">
+      <option name="closed" value="true" />
+      <created>1726658286784</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726658286784</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="files added" />
     <option name="LAST_COMMIT_MESSAGE" value="files added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/TestCaseIntegration.java</url>
+          <line>36</line>
+          <properties class="com.thetestingacademy.ex_21092024.CRUD.TestCaseIntegration" method="getToken">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/TestCaseIntegration.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningATB7xAPIAutomationPrograms$Test002.ic" NAME="Test002 Coverage Results" MODIFIED="1726737572625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.thetestingacademy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LearningATB7xAPIAutomationPrograms$PutTC5_UpdateBooking_test_updatebooking__2_.ic" NAME="PutTC5_UpdateBooking.test_updatebooking (2) Coverage Results" MODIFIED="1726899190065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.thetestingacademy.ex_15092024_CRUD.Post.*</FILTER>
+    </SUITE>
   </component>
 </project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="LearningATB7xAPIAutomationPrograms">
+        <classes>
+            <class name="com.thetestingacademy.ex_15092024_CRUD.POST.PostnonBddStyleCreateAuth_TC1">
+                <methods>
+                    <include name="test_post"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex_15092024_CRUD.POST.PostTC3_CreateBooking">
+                <methods>
+                    <include name="test_createBooking"/>
+                </methods>
+            </class>
+            <class name="com.thetestingacademy.ex_15092024_CRUD.POST.PutTC5_UpdateBooking">
+                <methods>
+                    <include name="test_updatebooking"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>
