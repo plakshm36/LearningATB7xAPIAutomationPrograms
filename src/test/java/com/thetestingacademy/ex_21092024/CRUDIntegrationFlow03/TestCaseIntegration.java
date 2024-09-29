@@ -1,11 +1,10 @@
-package com.thetestingacademy.ex_21092024.CRUD;
+package com.thetestingacademy.ex_21092024.CRUDIntegrationFlow03;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
-import io.restassured.specification.ResponseSpecification;
 import org.testng.annotations.Test;
 
 public class TestCaseIntegration {
@@ -93,7 +92,8 @@ public class TestCaseIntegration {
         validatableResponse = response.then().log().all();
         validatableResponse.statusCode(200);
 
-        //Extract the bookingID
+        //Extract the bookingID.Extracting more explained here in this program
+        //
         bookingId = response.jsonPath().getString("bookingid");
         System.out.println(bookingId);
         return bookingId;
@@ -134,7 +134,7 @@ public class TestCaseIntegration {
         validatableResponse.statusCode(200);
     }
 
-
+//below are dummy code how to write a testcaseflow(booking,update,delete) in one code was shown
     @Test(dependsOnMethods = "test_update_request_put")
     public void test_update_request_get() {
         System.out.println(bookingId);

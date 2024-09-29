@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_21092024.TestngAnnotations;
+package com.thetestingacademy.ex_21092024.TestngAnnotations01;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Severity;

@@ -1,7 +1,8 @@
-package com.thetestingacademy.ex_21092024.Assertions;
+package com.thetestingacademy.ex_21092024.Assertions02;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
+import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
@@ -10,13 +11,14 @@ import org.testng.annotations.Test;
 import static org.assertj.core.api.Assertions.assertThat;
 
 
-public class Test011_AssertionsTestNGandHamcrest {
+public class Test011_AssertionsTestNGandHamcrestandAssertJ {
 
     RequestSpecification requestSpecification;
     Response response;
     ValidatableResponse validatableResponse;
     String token;
-    Integer bookingId;
+    String bookingId;
+    String firstname;
 
     //  Create a method for createToken-return the token as its needed for PUT request
 
@@ -51,7 +53,7 @@ public class Test011_AssertionsTestNGandHamcrest {
         validatableResponse = response.then().log().all();
         validatableResponse.statusCode(200);
 
-        // Rest Assured Default - Hamcrest
+        // 1.Rest Assured Default - Hamcrest
         // import org.hamcrest.Matchers;
 //        validatableResponse.body("booking.firstname",Matchers.equalTo("Pramod"));
 //        validatableResponse.body("booking.lastname",Matchers.equalTo("Dutta"));
@@ -59,19 +61,31 @@ public class Test011_AssertionsTestNGandHamcrest {
 //        validatableResponse.body("bookingid",Matchers.notNullValue());
 
 
-        // TestNG Assertion
+        // 2.TestNG Assertion
         // SoftAssert vs
-        // HardAssert - This means that if any assertion fails, the remaining statements in that test method will not be executed.
+        // HardAssert - This means that if any assertion fails, the remaining statements in
+        // that test method will not be executed.
 
-        bookingId = response.then().extract().path("bookingid");
-        String firstname = response.then().extract().path("booking.firstname");
+        //Below is a way1 to extract the response results recieved and get it as string from jsonstring.
+
+       /* bookingId = response.then().extract().path("bookingid");
+        String firstname = response.then().extract().path("booking.firstname");*/
+
+        ////Below is a way2(jsonpath extraction) to extract the response results
+        // recieved and get it as string from jsonstring.More explained on this program
+        //C:\Users\padma\IdeaProjects\LearningATB7xAPIAutomationPrograms\src\test\java\com\thetestingacademy\ex_21092024\VerificationofJsonResponseUsingAssertJ04\Test013_VerificationofJsonResponseUsingJsonPath.java
+
+       JsonPath jsonPath = new JsonPath(response.asString());
+       bookingId = jsonPath.getString("bookingid");
+       firstname = jsonPath.getString("booking.firstname");
+
 
 //        Assert.assertNotNull(bookingId);
 //        Assert.assertEquals(firstname,"Pramod");
 
-        // AssertJ Assertion
+        // 3.AssertJ Assertion
 
-        assertThat(bookingId).isNotNull().isNotZero().isPositive();
+        assertThat(bookingId).isNotNull().isNotBlank().isGreaterThan("0");
         assertThat(firstname).isEqualTo("James").isNotEmpty().isNotBlank();
         String s = ""; //Empty
         String s2 = " "; //Blank

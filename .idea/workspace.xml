@@ -5,33 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1394e575-337d-4ca4-a7ad-8cc38bc4cf7c" name="Changes" comment="files added">
-      <change afterPath="$PROJECT_DIR$/BasicAnnotations_com.thetestingacademy_ex_15092024_CRUD.POST" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasicStarted/BuilderPatternDesignPatternJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasicStarted/NoDesignPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasicStarted/Test002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/GET/GetBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/GET/GetNonBDDStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/POST/PostBddStyleCreateAuth_TC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/POST/PostTC3_CreateBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/POST/PostnonBddStyleCreateAuth_TC1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/POST/PutTC5_UpdateBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/TestngAnnotations/Test002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_15092024_CRUD/TestngAnnotations/Test003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/Assertions/Test011_AssertionsTestNGandHamcrest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/Assertions/Test012_AssertionsTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/TestCaseIntegration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNg004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/VerificationofJsonResponseUsingAssertJ04/DifferentResponseVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/VerificationofJsonResponseUsingAssertJ04/Test013_VerificationofJsonResponseUsingJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_22092024/PayloadasHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_22092024/PayloadasPojoClasses/BookingDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_22092024/PayloadasPojoClasses/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_22092024/PayloadasPojoClasses/GsonSerializationDeserialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_22092024/PayloadasStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/Test001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/RestAssuredBasicStarted/Test001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/Assertions/Test011_AssertionsTestNGandHamcrest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/Assertions02/Test011_AssertionsTestNGandHamcrestandAssertJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/Assertions/Test012_AssertionsTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/Assertions02/Test012_AssertionsTestNG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/TestCaseIntegration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUDIntegrationFlow03/TestCaseIntegration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations01/TestNG001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations01/TestNG003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations01/TestNG005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations01/TestNG006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG007.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations01/TestNG007.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations01/TestNG008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNG009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations01/TestNG009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations/TestNg004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/TestngAnnotations01/TestNg004.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +71,11 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUD/testng.xml.executor": "Run",
+    "TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUDIntegrationFlow03/testng.xml.executor": "Run",
     "TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/testng.xml.executor": "Run",
     "TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/testng_groups_qa.xml.executor": "Run",
+    "TestNG.GsonSerializationDeserialization.testNonBDDStylePOSTPositive (1).executor": "Run",
+    "TestNG.GsonSerializationDeserialization.testNonBDDStylePOSTPositive.executor": "Run",
     "TestNG.PostBddStyleCreateAuth_TC1.test_post.executor": "Run",
     "TestNG.PostTC3_CreateBooking.executor": "Run",
     "TestNG.PostTC3_CreateBooking.test_createBooking (1).executor": "Run",
@@ -91,7 +87,9 @@
     "TestNG.PutTC5_UpdateBooking.test_updatebooking (2).executor": "Coverage",
     "TestNG.PutTC5_UpdateBooking.test_updatebooking (3).executor": "Run",
     "TestNG.PutTC5_UpdateBooking.test_updatebooking.executor": "Run",
+    "TestNG.ResponseVerification.executor": "Run",
     "TestNG.Test011_AssertionsTestNGandHamcrest.createBooking.executor": "Run",
+    "TestNG.Test011_AssertionsTestNGandHamcrestandAssertJ.createBooking.executor": "Run",
     "TestNG.TestCaseIntegration (1).executor": "Run",
     "TestNG.TestCaseIntegration.executor": "Run",
     "TestNG.TestCaseIntegration.test_delete_booking.executor": "Run",
@@ -119,14 +117,15 @@
       <recent name="C:\Users\padma\IdeaProjects\LearningATB7xAPIAutomationPrograms\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacademy.ex_21092024.VerificationofJsonResponseUsingAssertJ04" />
       <recent name="com.thetestingacademy.ex_15092024_CRUD.Post" />
       <recent name="com.thetestingacademy.ex_15092024_CRUD.get" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Test011_AssertionsTestNGandHamcrest.createBooking">
-    <configuration name="C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUD/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.GsonSerializationDeserialization.testNonBDDStylePOSTPositive">
+    <configuration name="C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUDIntegrationFlow03/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningATB7xAPIAutomationPrograms" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/testng.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUDIntegrationFlow03/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -134,17 +133,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PutTC5_UpdateBooking.test_updatebooking" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DifferentResponseVerification" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningATB7xAPIAutomationPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_15092024_CRUD.POST.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.VerificationofJsonResponseUsingAssertJ04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_15092024_CRUD.Post" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_15092024_CRUD.POST.PutTC5_UpdateBooking" />
-      <option name="METHOD_NAME" value="test_updatebooking" />
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.VerificationUsingAssertJ04" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.VerificationofJsonResponseUsingAssertJ04.DifferentResponseVerification" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonSerializationDeserialization.testNonBDDStylePOSTPositive (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_22092024.PayloadasPojoClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_22092024.PayloadasPojoClasses" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_22092024.PayloadasPojoClasses.GsonSerializationDeserialization" />
+      <option name="METHOD_NAME" value="testNonBDDStylePOSTPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GsonSerializationDeserialization.testNonBDDStylePOSTPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_22092024.PayloadasPojoClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_22092024.PayloadasPojoClasses" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_22092024.PayloadasPojoClasses.GsonSerializationDeserialization" />
+      <option name="METHOD_NAME" value="testNonBDDStylePOSTPositive" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -170,69 +204,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test011_AssertionsTestNGandHamcrest.createBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PutTC5_UpdateBooking.test_updatebooking" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearningATB7xAPIAutomationPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.Assertions.*" />
+          <option name="PATTERN" value="com.thetestingacademy.ex_15092024_CRUD.POST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_15092024_CRUD.Post" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_15092024_CRUD.POST.PutTC5_UpdateBooking" />
+      <option name="METHOD_NAME" value="test_updatebooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test011_AssertionsTestNGandHamcrestandAssertJ.createBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearningATB7xAPIAutomationPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.Assertions02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.Assertions" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.Assertions.Test011_AssertionsTestNGandHamcrest" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.Assertions02.Test011_AssertionsTestNGandHamcrestandAssertJ" />
       <option name="METHOD_NAME" value="createBooking" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCaseIntegration (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningATB7xAPIAutomationPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.CRUD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.CRUD" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.CRUD.TestCaseIntegration" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCaseIntegration" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningATB7xAPIAutomationPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.CRUD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.CRUD" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.CRUD.TestCaseIntegration" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCaseIntegration.test_delete_booking" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LearningATB7xAPIAutomationPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacademy.ex_21092024.CRUD.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacademy.ex_21092024.CRUD" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacademy.ex_21092024.CRUD.TestCaseIntegration" />
-      <option name="METHOD_NAME" value="test_delete_booking" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -242,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Test011_AssertionsTestNGandHamcrest.createBooking" />
-        <item itemvalue="TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUD/testng.xml" />
-        <item itemvalue="TestNG.TestCaseIntegration (1)" />
-        <item itemvalue="TestNG.TestCaseIntegration" />
-        <item itemvalue="TestNG.TestCaseIntegration.test_delete_booking" />
+        <item itemvalue="TestNG.GsonSerializationDeserialization.testNonBDDStylePOSTPositive" />
+        <item itemvalue="TestNG.GsonSerializationDeserialization.testNonBDDStylePOSTPositive (1)" />
+        <item itemvalue="TestNG.Test011_AssertionsTestNGandHamcrestandAssertJ.createBooking" />
+        <item itemvalue="TestNG.C:/Users/padma/IdeaProjects/LearningATB7xAPIAutomationPrograms/src/test/java/com/thetestingacademy/ex_21092024/CRUDIntegrationFlow03/testng.xml" />
+        <item itemvalue="TestNG.DifferentResponseVerification" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726658286784</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="files added">
+      <option name="closed" value="true" />
+      <created>1727434896296</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727434896297</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -294,16 +302,16 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/TestCaseIntegration.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUDIntegrationFlow03/TestCaseIntegration.java</url>
           <line>36</line>
-          <properties class="com.thetestingacademy.ex_21092024.CRUD.TestCaseIntegration" method="getToken">
+          <properties class="com.thetestingacademy.ex_21092024.CRUDIntegrationFlow03.TestCaseIntegration">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUD/TestCaseIntegration.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/thetestingacademy/ex_21092024/CRUDIntegrationFlow03/TestCaseIntegration.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
